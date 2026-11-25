@@ -1,0 +1,6 @@
+{
+  "name": "MediaConvert Pro",
+  "description": "Production-ready fast media converter for MKV to MP4, MP4 to MP3, and MP4 to MKV powered by FFmpeg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
